@@ -1,0 +1,11 @@
+C:\Users\Lab106(35)\source\repos\Polina\Polina\bin\Debug\Polina.exe.config
+C:\Users\Lab106(35)\source\repos\Polina\Polina\bin\Debug\Polina.exe
+C:\Users\Lab106(35)\source\repos\Polina\Polina\bin\Debug\Polina.pdb
+C:\Users\Lab106(35)\source\repos\Polina\Polina\obj\Debug\Polina.csproj.AssemblyReference.cache
+C:\Users\Lab106(35)\source\repos\Polina\Polina\obj\Debug\Polina.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lab106(35)\source\repos\Polina\Polina\obj\Debug\Polina.Form1.resources
+C:\Users\Lab106(35)\source\repos\Polina\Polina\obj\Debug\Polina.Properties.Resources.resources
+C:\Users\Lab106(35)\source\repos\Polina\Polina\obj\Debug\Polina.csproj.GenerateResource.cache
+C:\Users\Lab106(35)\source\repos\Polina\Polina\obj\Debug\Polina.csproj.CoreCompileInputs.cache
+C:\Users\Lab106(35)\source\repos\Polina\Polina\obj\Debug\Polina.exe
+C:\Users\Lab106(35)\source\repos\Polina\Polina\obj\Debug\Polina.pdb
