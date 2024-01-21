@@ -9,3 +9,12 @@ C:\Users\Lab106(35)\source\repos\Polina\Polina\obj\Debug\Polina.csproj.GenerateR
 C:\Users\Lab106(35)\source\repos\Polina\Polina\obj\Debug\Polina.csproj.CoreCompileInputs.cache
 C:\Users\Lab106(35)\source\repos\Polina\Polina\obj\Debug\Polina.exe
 C:\Users\Lab106(35)\source\repos\Polina\Polina\obj\Debug\Polina.pdb
+C:\Users\Lena\Desktop\lab1\Polina\Polina\bin\Debug\Polina.exe.config
+C:\Users\Lena\Desktop\lab1\Polina\Polina\obj\Debug\Polina.exe
+C:\Users\Lena\Desktop\lab1\Polina\Polina\obj\Debug\Polina.pdb
+C:\Users\Lena\Desktop\lab1\Polina\Polina\obj\Debug\Polina.csprojResolveAssemblyReference.cache
+C:\Users\Lena\Desktop\lab1\Polina\Polina\obj\Debug\Polina.Form1.resources
+C:\Users\Lena\Desktop\lab1\Polina\Polina\obj\Debug\Polina.Properties.Resources.resources
+C:\Users\Lena\Desktop\lab1\Polina\Polina\obj\Debug\Polina.csproj.GenerateResource.Cache
+C:\Users\Lena\Desktop\lab1\Polina\Polina\bin\Debug\Polina.exe
+C:\Users\Lena\Desktop\lab1\Polina\Polina\bin\Debug\Polina.pdb
